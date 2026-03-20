@@ -1,10 +1,10 @@
 # Boat Storage System
 
-##Description
+## Description
 A Java application for managing boat storage, owners, and monthly charges.
 Supports both a console-based system and a GUI (Java Swing).
 
-##🚀 Features
+## 🚀 Features
 
 Add and manage boat owners
 
@@ -24,7 +24,7 @@ Sort owners by name or total charges
 
 Save and load data from file
 
-##🏗️ Technologies
+## 🏗️ Technologies
 
 Java
 
@@ -34,7 +34,7 @@ Object-Oriented Programming (OOP)
 
 File Handling (Serialization)
 
-##📌 Notes
+## 📌 Notes
 
 Owner IDs are auto-generated
 
