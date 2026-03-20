@@ -3,9 +3,6 @@ package main;
 import javax.swing.*;
 import javax.swing.table.*;
 import java.awt.*;
-import java.awt.event.*;
-import javax.swing.border.TitledBorder;
-import java.util.List;
 
 /**
  * Panel for managing boats in the Boat Storage System.

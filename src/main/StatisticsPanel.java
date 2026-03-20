@@ -3,8 +3,7 @@ package main;
 import javax.swing.*;
 import javax.swing.border.*;
 import java.awt.*;
-import java.util.Map;
-import java.util.HashMap;
+
 
 /**
  * Panel for displaying statistics about the Boat Storage System.
