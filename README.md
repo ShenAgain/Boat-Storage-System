@@ -6,15 +6,15 @@ Supports both a console-based system and a GUI (Java Swing).
 
 ## 🚀 Features
 
--Add and manage boat owners
--Add SailBoats and MotorBoats
--Calculate monthly charges:
--Storage charge
--Insurance levy
--Sail drying / fire levy
--View statistics (total boats, charges, etc.)
--Sort owners by name or total charges
--Save and load data from file
+- Add and manage boat owners  
+- Add SailBoats and MotorBoats  
+- Calculate monthly charges:
+  - Storage charge  
+  - Insurance levy  
+  - Sail drying / fire levy  
+- View statistics (total boats, charges, etc.)  
+- Sort owners by name or total charges  
+- Save and load data from file  
 
 ## 🏗️ Technologies
 
